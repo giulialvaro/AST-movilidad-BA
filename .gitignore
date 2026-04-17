@@ -1,6 +1,7 @@
 # Caché de datos anuales (se regeneran corriendo el notebook)
 datos_tp1/subte_20*.csv
 datos_tp1/peajes_20*.csv
+venv/*
 
 # Archivos temporales
 .DS_Store
